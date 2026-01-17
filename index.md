@@ -7,3 +7,8 @@
 let mango = "delicious";
 console.log(mango)
 ```
+
+- [x] Header
+- [x] Image
+- [x] Code
+- [ ] List  
